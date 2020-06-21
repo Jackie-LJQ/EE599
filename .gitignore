@@ -1,0 +1,19 @@
+#omit h5 file, some model too large
+*.h5
+#omit my doc
+*.docx
+
+#large file in hw4
+polyvore_item_metadata.json
+compatibility_test_hw.txt
+compatibility_train.txt
+polyvore_outfit_titles.json
+test.json
+train.json
+train_category.json
+valid.json
+
+#large file in final project
+data
+papers
+oa_24_Named Entity Recognition with pretrained BERT_proposal.pdf
