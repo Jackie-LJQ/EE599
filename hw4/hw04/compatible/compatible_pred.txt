@@ -1,0 +1,200 @@
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\187096353.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\187095878.jpg'
+ '0.5012957']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\165798875.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\164314657.jpg'
+ '0.50129414']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\167747978.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\201352962.jpg'
+ '0.50129515']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\125694726.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\133448240.jpg'
+ '0.50129277']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\211455681.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\210969061.jpg'
+ '0.50128406']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\104638861.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\157978739.jpg'
+ '0.50129133']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\176604860.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\185456698.jpg'
+ '0.50129443']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\203086224.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\169023610.jpg'
+ '0.50129306']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\195559474.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\195496837.jpg'
+ '0.5012899']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\141512449.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\142050756.jpg'
+ '0.5012906']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\71989803.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\99106294.jpg'
+ '0.5012929']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\105071369.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\75158358.jpg'
+ '0.501296']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\178716723.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\178818709.jpg'
+ '0.501293']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\178198473.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\196387321.jpg'
+ '0.5012939']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\144313737.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\39091276.jpg'
+ '0.5012922']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\170005245.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\202134867.jpg'
+ '0.5012912']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\212738720.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\214699767.jpg'
+ '0.50128824']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\214403323.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\157766061.jpg'
+ '0.5012929']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\192196165.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\200376448.jpg'
+ '0.50129557']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\188696597.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\189002821.jpg'
+ '0.501301']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\170396923.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\166297885.jpg'
+ '0.5012897']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\151369470.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\202544497.jpg'
+ '0.5012919']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\76456344.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\116946966.jpg'
+ '0.5012938']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\112621261.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\120369368.jpg'
+ '0.50128984']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\192201580.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\185660390.jpg'
+ '0.50129426']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\166816894.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\168957971.jpg'
+ '0.50129426']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\206272836.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\187722093.jpg'
+ '0.5012862']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\211698190.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\127490003.jpg'
+ '0.5012936']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\210396078.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\209869747.jpg'
+ '0.50129324']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\146861132.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\148408321.jpg'
+ '0.50128937']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\207770427.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\204869189.jpg'
+ '0.50129426']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\203966804.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\205440537.jpg'
+ '0.5012922']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\159575755.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\167517845.jpg'
+ '0.50128996']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\179057412.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\140973351.jpg'
+ '0.50129366']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\212624065.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\212380739.jpg'
+ '0.50129443']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\194837487.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\195496190.jpg'
+ '0.50129014']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\120814871.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\115233578.jpg'
+ '0.50129354']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\106355198.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\111557093.jpg'
+ '0.50129575']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\198998025.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\205380223.jpg'
+ '0.5012876']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\57734204.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\38410651.jpg'
+ '0.5012924']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\202726410.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\203903846.jpg'
+ '0.5012941']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\206285745.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\164801027.jpg'
+ '0.50129104']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\183759603.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\178366934.jpg'
+ '0.5012987']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\190497852.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\203654440.jpg'
+ '0.5012925']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\164351912.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\164950612.jpg'
+ '0.5012936']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\138401904.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\134449878.jpg'
+ '0.5012888']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\193542831.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\201115704.jpg'
+ '0.5013011']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\30362990.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\33114213.jpg'
+ '0.50129783']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\203516791.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\201330562.jpg'
+ '0.50128967']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\191896223.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\187163839.jpg'
+ '0.5012904']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\204910483.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\205942298.jpg'
+ '0.5012969']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\140195811.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\136927929.jpg'
+ '0.50129426']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\155628228.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\154346205.jpg'
+ '0.50129515']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\140434515.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\110600740.jpg'
+ '0.50129026']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\184953699.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\190850460.jpg'
+ '0.5012904']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\129352307.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\165467719.jpg'
+ '0.5012936']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\190300818.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\195524250.jpg'
+ '0.5012964']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\208673850.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\210665437.jpg'
+ '0.50129527']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\112436409.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\106665510.jpg'
+ '0.5012922']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\150934962.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\149909385.jpg'
+ '0.501293']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\188956282.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\180742272.jpg'
+ '0.50129354']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\125030319.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\211940027.jpg'
+ '0.5012948']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\156967435.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\153729064.jpg'
+ '0.501291']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\208291346.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\207092728.jpg'
+ '0.50129205']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\190939681.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\193637901.jpg'
+ '0.5012947']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\206192137.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\207000444.jpg'
+ '0.5012889']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\187650936.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\195552248.jpg'
+ '0.5012917']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\151373364.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\153054589.jpg'
+ '0.50129247']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\173137407.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\165044986.jpg'
+ '0.5012954']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\205681667.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\186698333.jpg'
+ '0.50129086']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\81863553.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\101152078.jpg'
+ '0.5012928']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\192709923.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\178550003.jpg'
+ '0.5012963']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\201722393.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\195552248.jpg'
+ '0.5012885']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\192473414.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\195284010.jpg'
+ '0.50129145']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\145004231.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\139844746.jpg'
+ '0.50129634']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\158242795.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\158023278.jpg'
+ '0.5012963']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\197891647.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\203975817.jpg'
+ '0.50129056']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\130075591.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\129095105.jpg'
+ '0.5012936']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\102308498.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\100060655.jpg'
+ '0.50129384']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\196342277.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\79461627.jpg'
+ '0.5012874']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\195535692.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\127325696.jpg'
+ '0.5012978']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\37895433.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\39249901.jpg'
+ '0.50128996']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\156775817.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\135487843.jpg'
+ '0.50128496']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\189982387.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\196888755.jpg'
+ '0.5012955']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\84666532.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\33710517.jpg'
+ '0.5012949']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\117452082.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\168476047.jpg'
+ '0.50129014']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\209444999.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\204076750.jpg'
+ '0.50128514']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\196729212.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\178916342.jpg'
+ '0.5012976']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\188237682.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\167520425.jpg'
+ '0.50129086']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\175852737.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\191614454.jpg'
+ '0.50129044']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\206525989.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\205356216.jpg'
+ '0.50129306']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\104856007.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\101549514.jpg'
+ '0.5012912']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\193889046.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\197086836.jpg'
+ '0.501291']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\131693785.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\138652769.jpg'
+ '0.5012936']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\194065547.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\193230700.jpg'
+ '0.50129026']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\182275765.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\191291970.jpg'
+ '0.5012872']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\164516787.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\175269965.jpg'
+ '0.50129443']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\179084087.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\193885018.jpg'
+ '0.5012895']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\116953632.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\185073215.jpg'
+ '0.5012873']
+['F:\\599dl\\hw4\\polyvore_outfits\\images\\122456701.jpg;F:\\599dl\\hw4\\polyvore_outfits\\images\\77570718.jpg'
+ '0.50129145']

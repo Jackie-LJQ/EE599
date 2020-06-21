@@ -1,0 +1,85 @@
+sudo apt-get install git
+
+git clone https://github.com/pyenv/pyenv.git ~/.pyenv
+
+cd .pyenv
+
+pwd
+
+echo 'export PYENV_ROOT="/home/ubuntu/.pyenv"' >> ~/.bashrc
+
+echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
+
+echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nfi' >> ~/.bashrc
+
+exec "$SHELL"
+
+sudo apt-get update; sudo apt-get install --no-install-recommends make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
+
+pyenv install 3.6.10
+
+git clone https://github.com/pyenv/pyenv-virtualenv.git $(pyenv root)/plugins/pyenv-virtualenv
+
+echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bashrc
+
+exec "$SHELL"
+
+pyenv virtualenv 3.6.10 v-3.6
+
+pyenv activate v-3.6
+
+pip install --upgrade pip
+
+pip install tensorflow==2.1.0
+
+nvcc --version
+
+
+gdown https://drive.google.com/uc?id=1hi2HBzCyD3xPUU2F2xe2XoPXPPLhHef9
+
+tar -xzvf cudnn-10.0-linux-x64-v7.6.5.32.tgz
+
+sudo cp cuda/include/cudnn.h /usr/local/cuda/include
+
+sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64
+
+sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn*
+
+
+
+
+sudo rm /usr/local/cuda
+sudo ln -s /usr/local/cuda-10.1 /usr/local/cuda
+
+
+python
+from tensorflow.python.client import device_lib
+print(device_lib.list_local_devices())
+
+
+
+
+
+####上面是环境配置，下面是校验版本和下载数据的一些命令。
+
+
+
+
+
+
+
+gdown https://drive.google.com/open?id=1N6WLstVoNz9MIa0J5vuh7xlHWJNwTaef
+
+sudo apt install unzip
+nvidia-smi  
+watch -n nvidia-dmi
+
+cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2               
+
+nvcc --version  
+
+pip show tensorflow     
+
+git clone https://github.com/Jiessie-jq/EE599hw4.git
+
+gdown https://drive.google.com/uc?id=1F91ziAABt82WMhTTWA-U5wfKR-SAT6wP
