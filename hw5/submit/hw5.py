@@ -16,13 +16,14 @@ label = label.reshape((98,600,3))
 for i in range(1,121):#121
     if i<10:
         path = '/home/ubuntu/train/train_english/english_000{0}.wav'.format(i)
+        # path = 'F:/599dl/hw5/train/train_english/english_000{0}.wav'.format(i)
     elif i < 100:
         path = '/home/ubuntu/train/train_english/english_00{0}.wav'.format(i)
     else:
         path = '/home/ubuntu/train/train_english/english_0{0}.wav'.format(i)
-    y, sr = librosa.load(path, sr=16000) # sampling rate 16k
+    y, sr = librosa.load(path, sr=16000)
     y, index = librosa.effects.trim(y)
-    mat = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=64, n_fft=int(sr*0.025), hop_length = int(sr*0.01))
+    mat = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=64, n_fft=int(sr*0.0025), hop_length = int(sr*0.01))
     mat = mat[:,:58800].T
     mat = mat.reshape((98,600,64))
     mat = np.concatenate((mat, label), axis=-1)
@@ -38,7 +39,7 @@ for i in range(1,83):#83
         path = '/home/ubuntu/train/train_mandarin/mandarin_00{0}.wav'.format(i)
     y, sr = librosa.load(path, sr=16000)
     y, index = librosa.effects.trim(y)
-    mat = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=64, n_fft=int(sr*0.025), hop_length = int(sr*0.01))
+    mat = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=64, n_fft=int(sr*0.0025), hop_length = int(sr*0.01))
     mat = mat[:,:58800].T
     mat = mat.reshape((98,600,64))
     mat = np.concatenate((mat, label), axis=-1)
@@ -54,7 +55,7 @@ for i in range(1,31):#31
         path = '/home/ubuntu/train/train_hindi/hindi_00{0}.wav'.format(i)
     y, sr = librosa.load(path, sr=16000)
     y, index = librosa.effects.trim(y)
-    mat = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=64, n_fft=int(sr*0.025), hop_length = int(sr*0.01))
+    mat = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=64, n_fft=int(sr*0.0025), hop_length = int(sr*0.01))
     mat = mat[:,:58800].T
     mat = mat.reshape((98,600,64))
     mat = np.concatenate((mat, label), axis=-1)

@@ -11,7 +11,6 @@ import tensorflow.keras as tfk
 from sklearn.utils import class_weight
 import librosa
 import tensorflow as tf
-import pandas as pd
 
 
 hf = h5py.File('data.h5','r')
@@ -21,8 +20,10 @@ y1 = testdata[:,:,-3:]
 hf.close()
 
 X = Input(shape = (600,64))
-training = GRU(30,return_sequences=True,stateful=False)(X)
-training = Dense(256, activation='relu')(training)
+training = GRU(256,return_sequences=True)(X)
+training = GRU(256,return_sequences=True)(training)
+training = Dense(100, activation='relu')(training)
+training = Dense(48, activation='relu')(training)
 Y = Dense(3, activation='softmax')(training)
 model = tfk.Model(inputs=X, outputs=Y)
 model.compile(optimizer='adam', loss=tfk.losses.CategoricalCrossentropy(),metrics = ['accuracy'])
@@ -35,9 +36,10 @@ model.save('model.h5')
 
 # Stream inference model
 StreamX = Input(batch_shape = (1,None,64))
-training = GRU(40,return_sequences=True, stateful=True)(StreamX)
-training = Dense(256, activation='relu')(training)
-# training = Dense(32, activation='tanh')(training)
+training = GRU(256,return_sequences=True, stateful=True)(StreamX)
+training = GRU(256, return_sequences=True)(training)
+training = Dense(100, activation='relu')(training)
+training = Dense(48, activation='relu')(training)
 StreamY = Dense(3, activation='softmax')(training)
 stream_model = tfk.Model(inputs=StreamX, outputs=StreamY)
 stream_model.compile(optimizer='adam', loss=tfk.losses.CategoricalCrossentropy(), metrics=['accuracy'])
@@ -47,6 +49,8 @@ stream_model.summary()
 stream_model.load_weights('weights.h5')
 stream_model.save('stream_model2.h5')
 stream_model = tf.keras.models.load_model('stream_model2.h5')
+
+
 # n = len(y1)
 # acc = []
 # for s in range(23030):#23030

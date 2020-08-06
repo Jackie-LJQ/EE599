@@ -7,7 +7,6 @@ Created on Mon Apr 13 23:29:02 2020
 
 
 import librosa
-import h5py
 import numpy as np
 import tensorflow as tf
 
@@ -20,7 +19,7 @@ path = 'train_mandarin/mandarin_0031.wav'#20，30，31
 
 y, sr = librosa.load(path, sr=16000)
 y, index = librosa.effects.trim(y)
-mat = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=64, n_fft=int(sr*0.0025), hop_length = int(sr*0.01))
+mat = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=64, n_fft=int(sr*0.025), hop_length = int(sr*0.01))
 mat = mat[:,:58800].T
 mat = mat.reshape((98,600,64))
 
@@ -38,8 +37,8 @@ def cus_predict(model, mat):
             # p.append(prediction)
             label[np.argmax(prediction)]+=1
             model.reset_states() 
-            print(prediction)
-    print(np.argmax(label))   
+    #         print(prediction)
+    # print(np.argmax(label))   
     if np.argmax(label) ==0:
         return 'English'
     elif np.argmax(label) == 1:
@@ -48,3 +47,4 @@ def cus_predict(model, mat):
         return 'Hindi'
 
 language = cus_predict(model, mat)
+print('the input video is {0}'.format(language))
